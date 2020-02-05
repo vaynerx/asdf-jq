@@ -1,12 +1,12 @@
-![CI](https://github.com/team-gary/asdf-step/workflows/CI/badge.svg)
+![CI](https://github.com/team-gary/asdf-jq/workflows/CI/badge.svg)
 
-# asdf-step
-step plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+# asdf-jq
+jq plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add step https://github.com/kristoflemmens/asdf-step.git
+asdf plugin-add jq https://github.com/kristoflemmens/asdf-jq.git
 ```
 
 ## Use
@@ -15,7 +15,7 @@ Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions on
 
 ## Credits
 
-All credits to https://github.com/kristoflemmens/asdf-step.git
+All credits to https://github.com/kristoflemmens/asdf-jq.git
 
 ## License
 MIT License
